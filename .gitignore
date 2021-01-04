@@ -1,6 +1,6 @@
 # Default ignored files
-/workspace.xml
-../venv
+/.idea/workspace.xml
+/venv
 /misc.xml
 /modules.xml
 /photoArchiveManagerGUI.iml
